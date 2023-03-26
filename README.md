@@ -1,0 +1,1 @@
+# Responsive-result-summary-component
